@@ -75,8 +75,12 @@ This parts list is modified from the original to work in line with our goals.
 18 624ZZ Bearings
 
 210 M3 10mm Machine Screws
+
 96 M3 13mm Machine Screws
+
 12 M3 16mm Machine Screws
+
 84 M2.5 6mm Machien Screws
+
 54 M3 Machien Screw Nuts
 
